@@ -1,0 +1,6 @@
+github.com/wafer-bw/versioning-prototyping/pkg/grouped v0.0.0-20230927182403-36cfe5164171 h1:/EaNsqqRSP10yQKQdaZ/utLfFNximtwO7JUckNK1CpU=
+github.com/wafer-bw/versioning-prototyping/pkg/grouped v0.0.0-20230927182403-36cfe5164171/go.mod h1:Z4IzhP2WLWGNzgxg4XAklPgbZiWzj0zX2VQwtIHjV3U=
+github.com/wafer-bw/versioning-prototyping/pkg/individual/a v0.1.0 h1:XiEFKwSr6k9qjv9RHtJI69NMXFd+uFDcg15GEO3Xdxc=
+github.com/wafer-bw/versioning-prototyping/pkg/individual/a v0.1.0/go.mod h1:y0lphsE1Sx+dHvRwC0Z3NgG2EsJeTdF7QytCCq228jM=
+github.com/wafer-bw/versioning-prototyping/pkg/individual/b v0.0.0-20230927182403-36cfe5164171 h1:xxzSo5+IbmPq+qsnN0+TPBWkAWsDb4+Va8mI6amMEBc=
+github.com/wafer-bw/versioning-prototyping/pkg/individual/b v0.0.0-20230927182403-36cfe5164171/go.mod h1:tqZpRRbuWAQeJmEx39/jz0LoVlTjW3HOPmL7FFmgiUk=
